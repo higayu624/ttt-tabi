@@ -1,13 +1,11 @@
 <?php get_header(); ?>
-<div class="total-back"></div>
-<div class="top">
-    <div class="top-main">
-        <h2 class="top-title">Hiyokko Engineer</h2>
-        <p class="top-subtitle">Yuma.H</p>
+<div>
+    <div>
+        <h2 class="top-title">スポーツ足袋</h2>
     </div>
 </div>
-<main class="main">
-    <section class="top-bottom">
+<main class="pb-96">
+    <section class="pb-96">
         <div>こんにちは</div>
     </section>
 </main>
