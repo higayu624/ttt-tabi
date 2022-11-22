@@ -21,7 +21,7 @@
                 <li><a href="/" class="mr-2">HOME</a></li>
                 <li><a href="/shoes" class="mr-2">TABI</a></li>
                 <li><a href="/size" class="mr-2">サイズの選び方</a></li>
-                <li><a href="/contact" class="mr-2">お問合せ</a></li>
+                <li><a href="/contact" class="mr-2">お問い合せ</a></li>
             </ul>
         </div>
     </header>
