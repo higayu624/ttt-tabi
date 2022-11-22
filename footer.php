@@ -1,15 +1,15 @@
     <footer>
-        <div class = "flex justify-around">
+        <div class = "flex justify-around my-3.5">
             <ul>
-                <li>HOME</li>
-                <li>TABI</li>
-                <li>サイズの選び方</li>
-                <li>お問い合わせ</li>
+                <li><a href="/">HOME</li>
+                <li><a href="/tabi/">TABI</a></li>
+                <li><a href="/size/">サイズの選び方</a></li>
+                <li><a href="/oto/">お問い合わせ</a></li>
             </ul>
             <ul class =" ">
 
-                <li>特定商取引法人</li>
-                <li>プライバシー</li>
+                <li><a href="<?php echo home_url(); ?>/toku/">特定商取引法人</a></li>
+                <li><a href="/p/">プライバシー</a></li>
                 
 
             </ul>
@@ -17,5 +17,4 @@
 
         </div>
     </footer>
-
 </body>
