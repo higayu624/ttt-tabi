@@ -4,6 +4,7 @@
                 <li><a href="/">HOME</li>
                 <li><a href="/tabi/">TABI</a></li>
                 <li><a href="/size/">サイズの選び方</a></li>
+                <li><a href="/shop/">SHOP</a></li>
                 <li><a href="/oto/">お問い合わせ</a></li>
             </ul>
             <ul class =" ">
