@@ -6,6 +6,7 @@
            <a href="/"><li class="py-8 px-6">HOME</li></a>
             <a href="/shoes"><li class="py-8 px-6">TABI</li></a>
             <a href="/size"><li class="py-8 px-6">サイズの選び方</li></a>
+            <a href="/shop"><li class="py-8 px-6">SHOP</li></a>
             <a href="contact"><li class="py-8 px-6">お問い合わせ</li></a>
         </ul>
     </section>
