@@ -27,8 +27,17 @@
                 <ul>
                     <li>スポーツ足袋</li>
                     <li>スポーツジョグⅡ</li>
-                    <li>★★★★★</li>
                     <li>￥5090</li>
+                </ul>
+            </div>
+            <div class="inline-block w-72 mt-9 ml-9">
+                <div class="w-full">
+                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
+                </div>
+                <ul>
+                    <li>スポーツ足袋</li>
+                    <li>スポーツジョグAIR</li>
+                    <li>￥6930</li>
                 </ul>
             </div>
             <div class="inline-block w-72 mt-9 ml-9">
@@ -38,7 +47,6 @@
                 <ul>
                     <li>スポーツ足袋</li>
                     <li>スポーツジョグⅢ</li>
-                    <li>★★★★★</li>
                     <li>￥8800</li>
                 </ul>
             </div>
@@ -48,19 +56,7 @@
                 </div>
                 <ul>
                     <li>スポーツ足袋</li>
-                    <li>スポーツジョグAIR</li>
-                    <li>★★★★★</li>
-                    <li>￥6930</li>
-                </ul>
-            </div>
-            <div class="inline-block w-72 mt-9 ml-9">
-                <div class="w-full">
-                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
-                </div>
-                <ul>
-                    <li>スポーツ足袋</li>
                     <li>hitoe</li>
-                    <li>★★★★★</li>
                     <li>￥13200</li>
                 </ul>
             </div>
