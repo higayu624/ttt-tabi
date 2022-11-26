@@ -18,11 +18,11 @@
                 <a href="/">ttt-tabi</a>
             </div>
             <ul class="flex items-center leading-10 px-2.5 py-3 overflow-hidden">
-                <li><a href="/" class="mr-2">HOME</a></li>
-                <li><a href="/tabi" class="mr-2">TABI</a></li>
-                <li><a href="/size" class="mr-2">サイズの選び方</a></li>
-                <li><a href="/shop" class="mr-2">SHOP</a></li>
-                <li><a href="/contact" class="mr-2">お問い合わせ</a></li>
+                <li><a href="<?php echo home_url(); ?>/" class="mr-2">HOME</a></li>
+                <li><a href="<?php echo home_url(); ?>/tabi" class="mr-2">TABI</a></li>
+                <li><a href="<?php echo home_url(); ?>/size" class="mr-2">サイズの選び方</a></li>
+                <li><a href="<?php echo home_url(); ?>/shop" class="mr-2">SHOP</a></li>
+                <li><a href="<?php echo home_url(); ?>/contact" class="mr-2">お問い合わせ</a></li>
             </ul>
         </div>
     </header>
