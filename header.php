@@ -9,18 +9,20 @@
     <meta name="description">
 </head>
 <body class="text-base m-0 tracking-widest">
-    <header>
-        <div class="sticky w-full h-20 flex max-w-5xl mx-auto justify-between">
+    <div class="h-12 bg-black w-full text-center py-4">
+        <p class="text-white text-sm">初回購入は靴下無料！</p>
+    </div>
+    <header class="border-b-2 sticky border-b top-0 bg-white">
+        <div class="w-full h-20 flex max-w-5xl mx-auto justify-between">
             <div class="items-center leading-10 px-2.5 py-5 overflow-hidden">
                 <a href="/">ttt-tabi</a>
             </div>
             <ul class="flex items-center leading-10 px-2.5 py-3 overflow-hidden">
-                <li><a href="/">HOME</a></li>
-                <li><a href="/works">WORKS</a></li>
-                <li><a href="/about">ABOUT</a></li>
-                <li><a href="/skill">SKILL</a></li>
-                <li><a href="#service">SERVICE</a></li>
-                <li><a href="/contact">CONTACT</a></li>
+                <li><a href="/" class="mr-2">HOME</a></li>
+                <li><a href="/tabi" class="mr-2">TABI</a></li>
+                <li><a href="/size" class="mr-2">サイズの選び方</a></li>
+                <li><a href="/shop" class="mr-2">SHOP</a></li>
+                <li><a href="/contact" class="mr-2">お問い合わせ</a></li>
             </ul>
         </div>
     </header>
