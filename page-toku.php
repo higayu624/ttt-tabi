@@ -2,7 +2,7 @@
 
 <div class="max-w-5xl" style="margin:0 auto;">
 
-    <h1 class="object-center text-2xl text-center">特定商取引法人</h1><br>
+    <h1 class="object-center text-2xl text-center m-5">特定商取引法人</h1><br>
     
     <p class = "font-bold">・事業者の名称</p>
     <li class = "list-none">具志　大輝</li><br>
