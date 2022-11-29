@@ -1,25 +1,25 @@
-    <footer>
-        <div class="bg-blue-200 p-3.5 text-center">初回購入は靴下無料!</div>
-        <div class = "flex justify-around my-3.5 p-2">
+    <footer >
+        <div class="bg-blue-100 p-3.5 text-center">初回購入は靴下無料!</div>
+        <div class = "flex justify-around my-3.5 p-2 py-16">
             <ul>
 
                 <p class = "font-bold text-blue-200">TABI</p>
-                <li><a href="<?php echo home_url(); ?>/tabi/#function">TABIの機能</a></li>
-                <li><a href="<?php echo home_url(); ?>/tabi/#process">TABIの作り方</a></li>
-                <li><a href="<?php echo home_url(); ?>/tabi/#feature">TABIの特徴</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/tabi/#function">TABIの機能</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/tabi/#process">TABIの作り方</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/tabi/#feature">TABIの特徴</a></li>
 
             </ul>
             <ul>
                 <p class = "font-bold text-blue-200">SHOP</p>
-                <li><a href="<?php echo home_url(); ?>/sportsjog/">スポーツジョグⅡ</a></li>
-                <li><a href="<?php echo home_url(); ?>/sportsjogair/">スポーツジョグAIR</a></li>
-                <li><a href="<?php echo home_url(); ?>/hitoe/">hitoe</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/sportsjog/">スポーツジョグⅡ</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/sportsjogair/">スポーツジョグAIR</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/hitoe/">hitoe</a></li>
             </ul>
             <ul>
                 <p class = "font-bold text-blue-200">サービス</p>
-                <li><a href="<?php echo home_url(); ?>/toku/">特定商取引法に基づく表示</a></li>
-                <li><a href="<?php echo home_url(); ?>/privacy/">プライバシーポリシー</a></li>
-                <li><a href="<?php echo home_url(); ?>/#">※よくある質問</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/toku/">特定商取引法に基づく表示</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/privacy/">プライバシーポリシー</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/#">※よくある質問</a></li>
 
             </ul>
         </div>
@@ -42,6 +42,10 @@
     var method = document.querySelector('#method');
     var care = document.querySelector('#care');
     var delivery = document.querySelector('#delivery');
+
+    var tabi = document.querySelector('#tabi');
+    var tabis = document.querySelector('#tabis');
+    var tabiButton = document.querySelector('#tabi-button')
 
     if (jog2Main != null){
         jog20.addEventListener("click", function(){
@@ -81,4 +85,12 @@
             delivery.style.display = 'table-cell';
         })
     }
+
+    tabi.addEventListener("mouseover", function(){
+        tabis.classList.remove('hidden');
+    })
+
+    tabiButton.addEventListener("mouseleave", function(){
+        tabis.classList.add('hidden');
+    })
 </script>

@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<main>
+<main class="pb-20">
     <section class="py-16 border-b">
         <p class="text-4xl font-serif text-center font-black ">スポーツ足袋</p>
         <ul class="flex justify-center mt-10">
@@ -21,46 +21,54 @@
             <h3 class="text-base">おすすめの商品</h3>
         </div>
         <div class="max-w-5xl" style="margin:0 auto;">
+        <a href="<?php echo home_url(); ?>/sportsjog">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sport-jog.jpeg">
                 </div>
                 <ul>
-                    <li>スポーツ足袋</li>
-                    <li>スポーツジョグⅡ</li>
+                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="font-bold">スポーツジョグⅡ</li>
                     <li>￥5090</li>
                 </ul>
             </div>
+        </a>
+        <a href="<?php echo home_url(); ?>/sportsjog-air">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
                 </div>
                 <ul>
-                    <li>スポーツ足袋</li>
-                    <li>スポーツジョグAIR</li>
+                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="font-bold">スポーツジョグAIR</li>
                     <li>￥6930</li>
                 </ul>
             </div>
+        </a>
+        <a href="<?php echo home_url(); ?>/sportsjog3">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
                 </div>
                 <ul>
-                    <li>スポーツ足袋</li>
-                    <li>スポーツジョグⅢ</li>
+                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="font-bold">スポーツジョグⅢ</li>
                     <li>￥8800</li>
                 </ul>
             </div>
+        </a>
+        <a href="<?php echo home_url(); ?>/hitoe">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
                 </div>
                 <ul>
-                    <li>スポーツ足袋</li>
-                    <li>hitoe</li>
+                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="font-bold">hitoe</li>
                     <li>￥13200</li>
                 </ul>
             </div>
+        </a>
         </div>
     </section>
 </main>
