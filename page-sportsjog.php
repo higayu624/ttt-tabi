@@ -16,9 +16,9 @@
             <div class="pt-20"><!-- 仕様 -->
                 <table class="border border-gray-200 w-full">
                     <tr class="border border-gray-200">
-                        <th id="method-button" class="hover:bg-blue-100 border border-gray-200 p-2 font-normal">仕様</th>
-                        <th id="care-button" class="hover:bg-blue-100 border border-gray-200 p-2 font-normal">お手入れ</th>
-                        <th id="delivery-button" class="hover:bg-blue-100 border border-gray-200 p-2 font-normal">配送</th>
+                        <th id="method-button" class="border border-gray-200 p-2 font-normal">仕様</th>
+                        <th id="care-button" class="border border-gray-200 p-2 font-normal bg-gray-100">お手入れ</th>
+                        <th id="delivery-button" class="border border-gray-200 p-2 font-normal bg-gray-200">配送</th>
                     </tr>
                     <tr class="border border-gray-200">
                         <td id="method" style="display:table-cell;" class="border border-gray-200 p-8" colspan="3" rowspan="3">
@@ -30,12 +30,12 @@
                                 <li>・生産国：中国</li>
                             </ul>
                         </td>
-                        <td id="care" style="display:none;" class="border border-gray-200 p-8" colspan="3" rowspan="3">
+                        <td id="care" style="display:none;" class="border border-gray-200 p-8 bg-gray-100" colspan="3" rowspan="3">
                             水かぬるま湯で手洗いを行った後、直射日光が当たる場所を避けて、風通しの良い日陰で
                             形を整えて干してください。<br>保管も直射日光が当たる場所は避けて湿度が高くなく、風通
                             しの良い場所で保管してください。<br>（汚れが気になる場合は中性洗剤を使用してください。)
                         </td>
-                        <td id="delivery" style="display:none;" class="hidden border border-gray-200 p-8" colspan="3" rowspan="3">
+                        <td id="delivery" style="display:none;" class="hidden border border-gray-200 p-8 bg-gray-200" colspan="3" rowspan="3">
                             <ul>
                                 <li>・配送料は無料です。</li>
                                 <li>・平日14時30分までのご注文で最短翌日出荷いたします。</li>

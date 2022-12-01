@@ -1,5 +1,5 @@
     <footer >
-        <div class="bg-blue-100 p-3.5 text-center">初回購入は靴下無料!</div>
+        <div class="bg-blue-100 p-3.5 text-center">団体でのお買い求めはお問合せフォームからお願いします</div>
         <div class = "flex justify-around my-3.5 p-2 py-16">
             <ul>
 
@@ -12,6 +12,7 @@
             <ul>
                 <p class = "font-bold text-blue-200">SHOP</p>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/sportsjog/">スポーツジョグⅡ</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/sportsjog/">スポーツジョグⅢ</a></li>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/sportsjogair/">スポーツジョグAIR</a></li>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/hitoe/">hitoe</a></li>
             </ul>
@@ -19,8 +20,6 @@
                 <p class = "font-bold text-blue-200">サービス</p>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/toku/">特定商取引法に基づく表示</a></li>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/privacy/">プライバシーポリシー</a></li>
-                <li class="pt-1"><a href="<?php echo home_url(); ?>/#">※よくある質問</a></li>
-
             </ul>
         </div>
         <hr size="5">

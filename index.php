@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <main class="pb-20">
     <section class="py-16 border-b">
-        <p class="text-4xl font-serif text-center font-black ">スポーツ足袋</p>
+        <p class="text-4xl font-serif text-center font-black ">SPORTS TABI</p>
         <ul class="flex justify-center mt-10">
            <a href="/"><li class="py-8 px-6">HOME</li></a>
             <a href="/shoes"><li class="py-8 px-6">TABI</li></a>
