@@ -5,20 +5,20 @@
             <div><!-- 写真 -->
                 <div style="margin:0 auto"><img id="jog2-main" class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div>
                 <div class="flex mt-5">
-                    <div class="w-28" id="jog2-0"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div>
-                    <div class="w-28 ml-8" id="jog2-1"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/1.jpeg"></div>
-                    <div class="w-28 ml-8" id="jog2-2"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/2.jpeg"></div>
-                    <div class="w-28 ml-8" id="jog2-3"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/3.jpeg"></div>
-                    <div class="w-28 ml-8" id="jog2-4"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/4.jpeg"></div>
-                    <div class="w-28 ml-8" id="jog2-5"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/5.jpeg"></div>
+                    <div class="w-28 hover:scale-125" id="jog2-0"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div>
+                    <div class="w-28 hover:scale-125 ml-8" id="jog2-1"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/1.jpeg"></div>
+                    <div class="w-28 hover:scale-125 ml-8" id="jog2-2"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/2.jpeg"></div>
+                    <div class="w-28 hover:scale-125 ml-8" id="jog2-3"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/3.jpeg"></div>
+                    <div class="w-28 hover:scale-125 ml-8" id="jog2-4"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/4.jpeg"></div>
+                    <div class="w-28 hover:scale-125 ml-8" id="jog2-5"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/5.jpeg"></div>
                 </div>
             </div>
             <div class="pt-20"><!-- 仕様 -->
                 <table class="border border-gray-200 w-full">
                     <tr class="border border-gray-200">
-                        <th id="method-button" class="hover:bg-gray-200 border border-gray-200 p-2 font-normal">仕様</th>
-                        <th id="care-button" class="hover:bg-gray-200 border border-gray-200 p-2 font-normal">お手入れ</th>
-                        <th id="delivery-button" class="hover:bg-gray-200 border border-gray-200 p-2 font-normal">配送</th>
+                        <th id="method-button" class="border border-gray-200 p-2 font-normal">仕様</th>
+                        <th id="care-button" class="border border-gray-200 p-2 font-normal bg-gray-100">お手入れ</th>
+                        <th id="delivery-button" class="border border-gray-200 p-2 font-normal bg-gray-200">配送</th>
                     </tr>
                     <tr class="border border-gray-200">
                         <td id="method" style="display:table-cell;" class="border border-gray-200 p-8" colspan="3" rowspan="3">
@@ -30,12 +30,12 @@
                                 <li>・生産国：中国</li>
                             </ul>
                         </td>
-                        <td id="care" style="display:none;" class="border border-gray-200 p-8" colspan="3" rowspan="3">
+                        <td id="care" style="display:none;" class="border border-gray-200 p-8 bg-gray-100" colspan="3" rowspan="3">
                             水かぬるま湯で手洗いを行った後、直射日光が当たる場所を避けて、風通しの良い日陰で
                             形を整えて干してください。<br>保管も直射日光が当たる場所は避けて湿度が高くなく、風通
                             しの良い場所で保管してください。<br>（汚れが気になる場合は中性洗剤を使用してください。)
                         </td>
-                        <td id="delivery" style="display:none;" class="hidden border border-gray-200 p-8" colspan="3" rowspan="3">
+                        <td id="delivery" style="display:none;" class="hidden border border-gray-200 p-8 bg-gray-200" colspan="3" rowspan="3">
                             <ul>
                                 <li>・配送料は無料です。</li>
                                 <li>・平日14時30分までのご注文で最短翌日出荷いたします。</li>
@@ -51,36 +51,42 @@
                     <h3 class="text-xs">関連商品</h3>
                 </div>
                 <div class="max-w-5xl" style="margin:0 auto;">
-                    <div class="inline-block w-44 mt-9 ml-9">
-                        <div class="w-full">
-                            <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
+                    <a href="<?php echo home_url(); ?>/sportsjog-air">
+                        <div class="inline-block w-44 mt-9 ml-9">
+                            <div class="w-full">
+                                <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
+                            </div>
+                            <ul>
+                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="font-bold">スポーツジョグAIR</li>
+                                <li>￥6930</li>
+                            </ul>
                         </div>
-                    <ul>
-                        <li>スポーツ足袋</li>
-                        <li>スポーツジョグAIR</li>
-                        <li>￥6930</li>
-                    </ul>
-                </div>
-                <div class="inline-block w-44 mt-9 ml-9">
-                    <div class="w-full">
-                        <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
-                    </div>
-                    <ul>
-                        <li>スポーツ足袋</li>
-                        <li>スポーツジョグⅢ</li>
-                        <li>￥8800</li>
-                    </ul>
-                </div>
-                <div class="inline-block w-44 mt-9 ml-9">
-                    <div class="w-full">
-                        <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
+                    </a>
+                    <a href="<?php echo home_url(); ?>/sportsjog3">
+                        <div class="inline-block w-44 mt-9 ml-9">
+                            <div class="w-full">
+                                <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
+                            </div>
+                            <ul>
+                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="font-bold">スポーツジョグⅢ</li>
+                                <li>￥8800</li>
+                            </ul>
                         </div>
-                        <ul>
-                            <li>スポーツ足袋</li>
-                            <li>hitoe</li>
-                            <li>￥13200</li>
-                        </ul>
-                    </div>
+                    </a>
+                    <a href="<?php echo home_url(); ?>/hitoe">
+                        <div class="inline-block w-44 mt-9 ml-9">
+                            <div class="w-full">
+                                <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
+                            </div>
+                            <ul>
+                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                 <li class="font-bold">hitoe</li>
+                                <li>￥13200</li>
+                            </ul>
+                        </div>
+                    </a>
                 </div>
             </section>
         </div>
@@ -95,6 +101,12 @@
                     ポーツやトレーニングに最適です。
                 </div>
             </div>
+            <div class="flex justify-between pt-20">
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-red.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-white.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-gray.jpeg"></div></a>
+            </div>
             <div class="pt-20"><!-- サイズ一覧 -->
                 <table class="border border-gray-200 w-full">
                     <tr>
@@ -102,47 +114,47 @@
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23
-                        </td><td class="p-3 border border-gray-200"><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100"><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23.5
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24.5
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25.5
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26.5
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/27
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/28
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/29
-                        </td><td class="p-3 border border-gray-200" ><a  href="">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                 </table>
             </div>
