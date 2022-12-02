@@ -57,7 +57,7 @@
                                 <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
                             </div>
                             <ul>
-                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="mt-1 text-gray-300">SPORTS TABI</li>
                                 <li class="font-bold">スポーツジョグAIR</li>
                                 <li>￥6930</li>
                             </ul>
@@ -69,7 +69,7 @@
                                 <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
                             </div>
                             <ul>
-                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="mt-1 text-gray-300">SPORTS TABI</li>
                                 <li class="font-bold">スポーツジョグⅢ</li>
                                 <li>￥8800</li>
                             </ul>
@@ -81,7 +81,7 @@
                                 <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
                             </div>
                             <ul>
-                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="mt-1 text-gray-300">SPORTS TABI</li>
                                  <li class="font-bold">hitoe</li>
                                 <li>￥13200</li>
                             </ul>
@@ -96,16 +96,15 @@
                 <h3 class="font-black text-xl pt-20">¥5,090</h3>
                 <p class="pt-5">カラー/黒 サイズ/22.5</p>
                 <div class="pt-10">
-                    ローカットタイプのエアークッション入り足袋型スニーカー。
-                    片足220g（25cm）の超軽量タイプ。足指が使えるのでス
-                    ポーツやトレーニングに最適です。
+                ミドルカップタイプであるため足首をしっかりと保護してくれるトレーニングシューズ。<br>クッションは地面感じながらもしっかりと衝撃を吸収するWクッション機構を採用。<br>
+                <span class="text-red-500">体幹トレーニングやバランス能力を高めるトレーニング向け！</span>
                 </div>
             </div>
             <div class="flex justify-between pt-20">
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-red.jpeg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-white.jpeg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-gray.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019504"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-top.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019417"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-red.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019562"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-white.jpeg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019632"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/sportsjog-gray.jpeg"></div></a>
             </div>
             <div class="pt-20"><!-- サイズ一覧 -->
                 <table class="border border-gray-200 w-full">
@@ -114,47 +113,47 @@
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100"><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100"><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/27
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/28
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/29
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
                     </tr>
                 </table>
             </div>
