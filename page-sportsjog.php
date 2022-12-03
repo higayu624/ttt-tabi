@@ -51,18 +51,6 @@
                     <h3 class="text-xs">関連商品</h3>
                 </div>
                 <div class="max-w-5xl" style="margin:0 auto;">
-                    <a href="<?php echo home_url(); ?>/sportsjog-air">
-                        <div class="inline-block w-44 mt-9 ml-9">
-                            <div class="w-full">
-                                <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
-                            </div>
-                            <ul>
-                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
-                                <li class="font-bold">スポーツジョグAIR</li>
-                                <li>￥6930</li>
-                            </ul>
-                        </div>
-                    </a>
                     <a href="<?php echo home_url(); ?>/sportsjog3">
                         <div class="inline-block w-44 mt-9 ml-9">
                             <div class="w-full">
@@ -72,6 +60,18 @@
                                 <li class="mt-1 text-gray-300">スポーツ足袋</li>
                                 <li class="font-bold">スポーツジョグⅢ</li>
                                 <li>￥8800</li>
+                            </ul>
+                        </div>
+                    </a>
+                    <a href="<?php echo home_url(); ?>/sportsjog-air">
+                        <div class="inline-block w-44 mt-9 ml-9">
+                            <div class="w-full">
+                                <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
+                            </div>
+                            <ul>
+                                <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                                <li class="font-bold">スポーツジョグAIR</li>
+                                <li>￥6930</li>
                             </ul>
                         </div>
                     </a>
@@ -94,11 +94,10 @@
             <div><!-- 名前 値段 -->
                 <h1 class="font-bold text-2xl pt-10">スポーツジョグⅡ</h1>
                 <h3 class="font-black text-xl pt-20">¥5,090</h3>
-                <p class="pt-5">カラー/黒 サイズ/22.5</p>
+                <p class="pt-5">カラー/ブラック 画像のサイズ/22.5</p>
                 <div class="pt-10">
-                    ローカットタイプのエアークッション入り足袋型スニーカー。
-                    片足220g（25cm）の超軽量タイプ。足指が使えるのでス
-                    ポーツやトレーニングに最適です。
+                ミドルカップタイプであるため足首をしっかりと保護してくれるトレーニングシューズ。
+                クッションは地面感じながらもしっかりと衝撃を吸収するWクッション機構を採用。
                 </div>
             </div>
             <div class="flex justify-between pt-20">

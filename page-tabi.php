@@ -6,7 +6,7 @@
     <div class="max-w-5xl" style="margin:0 auto;">
 
         <div class="w-full text-center">
-            <p class="pb-5 pt-8 font-black text-lg">TABIの機能</p>
+            <p id="function" class="pb-5 pt-8 font-black text-lg">TABIの機能</p>
             <div>
                 足袋型の最大の特徴は親指と４趾に分かれていることです。<br>
                 指が分かれていることによって足指を独立することができ自由に動かすことができます。<br>
@@ -36,7 +36,7 @@
         </div>
 
         <div class="w-full text-center">
-            <p class="pb-5 pt-8 font-black text-lg">TABIの作り方</p>
+            <p id="process" class="pb-5 pt-8 font-black text-lg">TABIの作り方</p>
             <div class="pb-3">
                 丸五製の足袋靴は、足袋本来の木型（ラスト）を用いて作られています。<br>
                 そのため、足指に快適な空間を確保し、人間本来の足の機能を最大に活かした作り方をしています。<br>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="w-full text-center">
-            <p class="pb-5 pt-8 font-black text-lg">TABIの特徴</p>
+            <p id="feature" class="pb-5 pt-8 font-black text-lg">TABIの特徴</p>
             <div class="py-5">
                 <span class="text-red-600">運動パフォーマンスを最大限に引き出す、TABI型！</span><br>
                 足の指はそれぞれに全く違う動きをする機能をもっています。<br>
