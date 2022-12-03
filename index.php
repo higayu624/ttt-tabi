@@ -25,7 +25,7 @@
         <a href="<?php echo home_url(); ?>/sportsjog">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
-                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sport-jog.jpeg">
+                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sportsjog/1.jpg">
                 </div>
                 <ul>
                     <li class="mt-1 text-gray-300">SPORTS TABI</li>
@@ -37,7 +37,7 @@
         <a href="<?php echo home_url(); ?>/sportsjog-air">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
-                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
+                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sportsair/1.jpg">
                 </div>
                 <ul>
                     <li class="mt-1 text-gray-300">SPORTS TABI</li>
@@ -49,7 +49,7 @@
         <a href="<?php echo home_url(); ?>/sportsjog3">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
-                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
+                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sportsjog3/1.jpg">
                 </div>
                 <ul>
                     <li class="mt-1 text-gray-300">SPORTS TABI</li>
@@ -61,7 +61,7 @@
         <a href="<?php echo home_url(); ?>/hitoe">
             <div class="inline-block w-72 mt-9 ml-9">
                 <div class="w-full">
-                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
+                    <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe/1.jpg">
                 </div>
                 <ul>
                     <li class="mt-1 text-gray-300">SPORTS TABI</li>

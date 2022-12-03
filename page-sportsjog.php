@@ -120,47 +120,47 @@
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100"><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100"><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/23.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/24.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/25.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/26.5
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/27
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/28
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                     <tr>
                         <td class="pl-5 py-3 border border-gray-200">ブラック/29
-                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/items/69019504">詳細を見る</a></td>
+                        </td><td class="p-3 border border-gray-200 hover:bg-blue-100" ><a  href="https://sportstabi.base.shop/">詳細を見る</a></td>
                     </tr>
                 </table>
             </div>
