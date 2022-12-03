@@ -13,7 +13,7 @@
         <p class="text-sm">団体でのお買い求めはお問合せフォームからお願いします</p>
     </div>
     <header class="border-b-2 sticky border-b top-0 bg-white">
-        <div class="w-full h-20 flex max-w-5xl mx-auto justify-between">
+        <div class="w-full h-20 flex max-w-7xl mx-auto justify-between">
             <div class="items-center leading-10 px-2.5 py-5 overflow-hidden">
                 <a href="/">TABI-TTT</a>
             </div>

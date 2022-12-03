@@ -18,7 +18,7 @@
             </ul>
             <ul>
                 <p class = "font-bold text-blue-200">サービス</p>
-                <li class="pt-1"><a href="<?php echo home_url(); ?>/toku/">特定商取引法に基づく表示</a></li>
+                <li class="pt-1"><a href="<?php echo home_url(); ?>/toku/">特定商取引法に基づく表示について</a></li>
                 <li class="pt-1"><a href="<?php echo home_url(); ?>/privacy/">プライバシーポリシー</a></li>
             </ul>
         </div>

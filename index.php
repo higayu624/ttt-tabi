@@ -1,7 +1,8 @@
 <?php get_header(); ?>
 <main class="pb-20">
     <section class="py-16 border-b">
-        <p class="text-4xl font-serif text-center font-black ">SPORTS TABI</p>
+        <h2 class="text-6xl font-serif text-center font-black ">SPORTS TABI</h2>
+        <p class="text-mg font-serif text-center font-black" style="margin:0 auto;">足袋型スポーツシューズ</p>
         <ul class="flex justify-center mt-10">
            <a href="/"><li class="py-8 px-6">HOME</li></a>
             <a href="/shoes"><li class="py-8 px-6">TABI</li></a>
@@ -27,7 +28,7 @@
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sport-jog.jpeg">
                 </div>
                 <ul>
-                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="mt-1 text-gray-300">SPORTS TABI</li>
                     <li class="font-bold">スポーツジョグⅡ</li>
                     <li>￥5090</li>
                 </ul>
@@ -39,7 +40,7 @@
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-air.jpeg">
                 </div>
                 <ul>
-                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="mt-1 text-gray-300">SPORTS TABI</li>
                     <li class="font-bold">スポーツジョグAIR</li>
                     <li>￥6930</li>
                 </ul>
@@ -51,7 +52,7 @@
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/sports-jog3.jpeg">
                 </div>
                 <ul>
-                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="mt-1 text-gray-300">SPORTS TABI</li>
                     <li class="font-bold">スポーツジョグⅢ</li>
                     <li>￥8800</li>
                 </ul>
@@ -63,7 +64,7 @@
                     <img class="w-full" src="<?php echo get_template_directory_uri(); ?>/images/hitoe.jpeg">
                 </div>
                 <ul>
-                    <li class="mt-1 text-gray-300">スポーツ足袋</li>
+                    <li class="mt-1 text-gray-300">SPORTS TABI</li>
                     <li class="font-bold">hitoe</li>
                     <li>￥13200</li>
                 </ul>
