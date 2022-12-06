@@ -105,11 +105,11 @@
                 </div>
             </div>
             <div class="flex justify-between pt-20">
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/1.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/7.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/8.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/9.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/10.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69020009"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/1.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69020116"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/7.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69020165"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/8.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69020207"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/9.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69020684"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/hitoe/10.jpg"></div></a>
 
             </div>
             <div class="pt-20"><!-- サイズ一覧 -->

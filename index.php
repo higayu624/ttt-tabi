@@ -5,10 +5,10 @@
         <p class="text-mg font-serif text-center font-black" style="margin:0 auto;">足袋型スポーツシューズ</p>
         <ul class="flex justify-center mt-10">
            <a href="/"><li class="py-8 px-6">HOME</li></a>
-            <a href="/shoes"><li class="py-8 px-6">TABI</li></a>
+            <a href="/tabi"><li class="py-8 px-6">TABI</li></a>
             <a href="/size"><li class="py-8 px-6">サイズの選び方</li></a>
-            <a href="/shop"><li class="py-8 px-6">SHOP</li></a>
-            <a href="contact"><li class="py-8 px-6">お問い合わせ</li></a>
+            <a href="https://sportstabi.base.shop/"><li class="py-8 px-6">SHOP</li></a>
+            <a href="/contact"><li class="py-8 px-6">お問い合わせ</li></a>
         </ul>
     </section>
     <section class="w-full">

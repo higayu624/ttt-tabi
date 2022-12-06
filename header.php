@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="<?php echo get_template_directory_uri(); ?>/style.css" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title></title>
     <meta name="description">
 </head>
 <body class="text-base m-0 tracking-widest">
@@ -19,8 +19,12 @@
             </div>
             <ul class="flex items-center leading-10 px-2.5 py-3 overflow-hidden">
                 <li class="ml-5"><a href="<?php echo home_url(); ?>/" class="mr-2">HOME</a></li>
+                <li class="ml-5">
+                    <a href="<?php echo home_url(); ?>/tabi" class="mr-2">TABIについて</a>
+                </li>
+                <li class="ml-5"><a href="<?php echo home_url(); ?>/size" class="mr-2">サイズの選び方</a></li>
                 <li class="ml-5" id="tabi-button">
-                    <a href="<?php echo home_url(); ?>/tabi" class="mr-2" id="tabi">TABIについて</a>
+                    <a href="https://sportstabi.base.shop/" class="mr-2" id="tabi">SHOP</a>
                     <div class="absolute hidden" id="tabis">
                         <a href="<?php echo home_url(); ?>/sportsjog"><p class="hover:bg-blue-100 text-center p-1 bg-gray-100 border border-gray-200">SPORTS JOG Ⅱ</p></a>
                         <a href="<?php echo home_url(); ?>/sportsjog-air"><p class="hover:bg-blue-100 text-center p-1 bg-gray-100 border border-gray-200">SPORTS JOG AIR</p></a>
@@ -28,8 +32,6 @@
                         <a href="<?php echo home_url(); ?>/hitoe"><p class="hover:bg-blue-100 text-center p-1 bg-gray-100 border border-gray-200">hitoe</p></a>
                     </div>
                 </li>
-                <li class="ml-5"><a href="<?php echo home_url(); ?>/size" class="mr-2">サイズの選び方</a></li>
-                <li class="ml-5"><a href="<?php echo home_url(); ?>/shop" class="mr-2">SHOP</a></li>
                 <li class="ml-5"><a href="<?php echo home_url(); ?>/contact" class="mr-2">お問い合わせ</a></li>
             </ul>
         </div>

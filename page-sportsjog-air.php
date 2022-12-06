@@ -103,9 +103,9 @@
                 </div>
             </div>
             <div class="flex justify-between pt-20">
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/1.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/7.jpg"></div></a>
-                <a class="hover:scale-125" href="https://sportstabi.base.shop/"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/8.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019692"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/1.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019762"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/7.jpg"></div></a>
+                <a class="hover:scale-125" href="https://sportstabi.base.shop/items/69019811"><div class="w-16"><img src="<?php echo get_template_directory_uri(); ?>/images/sportsair/8.jpg"></div></a>
             </div>
             <div class="pt-20"><!-- サイズ一覧 -->
                 <table class="border border-gray-200 w-full">

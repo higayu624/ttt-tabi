@@ -1,0 +1,27 @@
+.wpcf7-submit{
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    border:solid 1px darkgray;
+    height: 50px;
+    margin-top: 20px;
+    line-height: 3rem;
+    margin-left:8rem;
+}
+
+.wpcf7-submit:hover{
+    border:none;
+}
+
+.screen-reader-response{
+    color:red;
+    margin:5px;
+    margin-bottom:20px;
+}
+
+.wpcf7-response-output{
+    color:red;
+    margin:5px;
+    margin-top:20px;
+}
