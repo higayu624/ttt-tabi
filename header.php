@@ -32,7 +32,7 @@
                         <a href="<?php echo home_url(); ?>/hitoe"><p class="hover:bg-blue-100 text-center p-1 bg-gray-100 border border-gray-200">hitoe</p></a>
                     </div>
                 </li>
-                <li class="ml-5"><a href="<?php echo home_url(); ?>/contact" class="mr-2">お問い合わせ</a></li>
+                <li class="ml-5"><a href="https://thebase.in/inquiry/sportstabi-base-shop" class="mr-2">お問合せ</a></li>
             </ul>
         </div>
     </header>

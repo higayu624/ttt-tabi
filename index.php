@@ -8,7 +8,7 @@
             <a href="/tabi"><li class="py-8 px-6">TABI</li></a>
             <a href="/size"><li class="py-8 px-6">サイズの選び方</li></a>
             <a href="https://sportstabi.base.shop/"><li class="py-8 px-6">SHOP</li></a>
-            <a href="/contact"><li class="py-8 px-6">お問い合わせ</li></a>
+            <a href="https://thebase.in/inquiry/sportstabi-base-shop"><li class="py-8 px-6">お問合せ</li></a>
         </ul>
     </section>
     <section class="w-full">
