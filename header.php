@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?php echo get_template_directory_uri(); ?>/style.css" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
+    <title>SPORTS TABI/足袋型スポーツシューズ</title>
     <meta name="description">
 </head>
 <body class="text-base m-0 tracking-widest">
@@ -15,7 +16,7 @@
     <header class="border-b-2 sticky border-b top-0 bg-white">
         <div class="w-full h-20 flex max-w-7xl mx-auto justify-between">
             <div class="items-center leading-10 px-2.5 py-5 overflow-hidden">
-                <a href="/">TABI-TTT</a>
+                <a href="/">TABI-TTT</a><span class="pl-5">足袋型スポーツシューズ</span>
             </div>
             <ul class="flex items-center leading-10 px-2.5 py-3 overflow-hidden">
                 <li class="ml-5"><a href="<?php echo home_url(); ?>/" class="mr-2">HOME</a></li>
